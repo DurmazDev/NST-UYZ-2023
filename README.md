@@ -10,7 +10,7 @@ Bu çalışmada, uçan araçlarla alınan görüntülerde taşıtlar, insanlar v
             <td align="center" valign="top" width="11.11%"><a href="https://github.com/AAhmetDurmaz"><img src="https://github.com/AAhmetDurmaz.png" width="100px;" alt="A. Ahmet Durmaz"/><br /><sub><b>A. Ahmet Durmaz</b></sub></a><br /><p>Üye</p></td>
             <td align="center" valign="top" width="11.11%"><a href="https://github.com/barisazar"><img src="https://github.com/barisazar.png" width="100px;" alt="Barış Azar"/><br /><sub><b>Barış Azar</b></sub></a><br /><p>Üye</p></td>
             <td align="center" valign="top" width="11.11%"><a href="https://github.com/YusufKizilgedik"><img src="https://github.com/YusufKizilgedik.png" width="100px;" alt="Yusuf Kızılgedik"/><br /><sub><b>Yusuf Kızılgedik</b></sub></a><br /><p>Üye</p></td>
-            <td align="center" valign="top" width="11.11%"><a href="https://github.com/mregungor"><img src="https://github.com/mregungor.png" width="100px;" alt="Dr. Emre Güngör"/><br /><sub><b>Dr. Emre Güngör</b></sub></a><br /><p>Üye</p></td>
+            <td align="center" valign="top" width="11.11%"><a href="https://github.com/mregungor"><img src="https://github.com/mregungor.png" width="100px;" alt="Dr. Emre Güngör"/><br /><sub><b>Dr. Emre Güngör</b></sub></a><br /><p>Danışman</p></td>
         </tr>
     </tbody>
 </table>
