@@ -51,9 +51,6 @@ Bu veri setlerinde buluna obje sayıları aşağıdadır.
 
 Bu model kullanılarak NST-v3.3 veri seti ile 50 epoch eğitilmiştir. Eğitilmiş modele [buradan](https://drive.google.com/drive/folders/13V1o9SvbDddMvR-G1yIcLyu4Yhx4rJNs?usp=sharing) ulaşabilirsiniz.
 
-## Final Tasarım Raporu
-Final tasarım raporu TEKNOFEST tarafından yayınlandığında buraya eklenecektir.
-
 ## Lisans
 
 [MIT](https://choosealicense.com/licenses/mit/)
