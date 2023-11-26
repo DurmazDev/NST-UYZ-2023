@@ -7,7 +7,7 @@ Bu çalışmada, uçan araçlarla alınan görüntülerde taşıtlar, insanlar v
 <table>
     <tbody>
         <tr>
-            <td align="center" valign="top" width="11.11%"><a href="https://github.com/AAhmetDurmaz"><img src="https://github.com/AAhmetDurmaz.png" width="100px;" alt="A. Ahmet Durmaz"/><br /><sub><b>A. Ahmet Durmaz</b></sub></a><br /><p>Üye</p></td>
+            <td align="center" valign="top" width="11.11%"><a href="https://github.com/DurmazDev"><img src="https://github.com/DurmazDev.png" width="100px;" alt="A. Ahmet Durmaz"/><br /><sub><b>A. Ahmet Durmaz</b></sub></a><br /><p>Üye</p></td>
             <td align="center" valign="top" width="11.11%"><a href="https://github.com/barisazar"><img src="https://github.com/barisazar.png" width="100px;" alt="Barış Azar"/><br /><sub><b>Barış Azar</b></sub></a><br /><p>Üye</p></td>
             <td align="center" valign="top" width="11.11%"><a href="https://github.com/YusufKizilgedik"><img src="https://github.com/YusufKizilgedik.png" width="100px;" alt="Yusuf Kızılgedik"/><br /><sub><b>Yusuf Kızılgedik</b></sub></a><br /><p>Üye</p></td>
             <td align="center" valign="top" width="11.11%"><a href="https://github.com/mregungor"><img src="https://github.com/mregungor.png" width="100px;" alt="Dr. Emre Güngör"/><br /><sub><b>Dr. Emre Güngör</b></sub></a><br /><p>Danışman</p></td>
@@ -26,8 +26,8 @@ KASK (Karar Seçme Katmanı), iki farklı model senkron şekilde çalışması, 
 <table>
     <tbody>
         <tr>
-            <td align="center" valign="top" width="25%"><img src="https://raw.githubusercontent.com/AAhmetDurmaz/NST-UYZ/master/src/1.jpg" width="200px" alt="KASK Girdisi, 4 Farklı Resim"/><br /><sub><b>KASK Girdisi, 4 Farklı Resim</b></sub></td>
-            <td align="center" valign="top" width="25%"><img src="https://raw.githubusercontent.com/AAhmetDurmaz/NST-UYZ/master/src/2.jpg" width="200px" alt="KASK Çıktısı, 1 Resim"/><br /><sub><b>KASK Çıktısı, 1 Resim</b></sub></td>
+            <td align="center" valign="top" width="25%"><img src="https://raw.githubusercontent.com/DurmazDev/NST-UYZ/master/src/1.jpg" width="200px" alt="KASK Girdisi, 4 Farklı Resim"/><br /><sub><b>KASK Girdisi, 4 Farklı Resim</b></sub></td>
+            <td align="center" valign="top" width="25%"><img src="https://raw.githubusercontent.com/DurmazDev/NST-UYZ/master/src/2.jpg" width="200px" alt="KASK Çıktısı, 1 Resim"/><br /><sub><b>KASK Çıktısı, 1 Resim</b></sub></td>
         </tr>
     </tbody>
 </table>
