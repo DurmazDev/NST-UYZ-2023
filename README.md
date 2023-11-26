@@ -26,8 +26,8 @@ KASK (Karar Seçme Katmanı), iki farklı model senkron şekilde çalışması, 
 <table>
     <tbody>
         <tr>
-            <td align="center" valign="top" width="25%"><img src="https://raw.githubusercontent.com/DurmazDev/NST-UYZ/master/src/1.jpg" width="200px" alt="KASK Girdisi, 4 Farklı Resim"/><br /><sub><b>KASK Girdisi, 4 Farklı Resim</b></sub></td>
-            <td align="center" valign="top" width="25%"><img src="https://raw.githubusercontent.com/DurmazDev/NST-UYZ/master/src/2.jpg" width="200px" alt="KASK Çıktısı, 1 Resim"/><br /><sub><b>KASK Çıktısı, 1 Resim</b></sub></td>
+            <td align="center" valign="top" width="25%"><img src="https://raw.githubusercontent.com/DurmazDev/NST-UYZ-2023/master/src/1.jpg" width="200px" alt="KASK Girdisi, 4 Farklı Resim"/><br /><sub><b>KASK Girdisi, 4 Farklı Resim</b></sub></td>
+            <td align="center" valign="top" width="25%"><img src="https://raw.githubusercontent.com/DurmazDev/NST-UYZ-2023/master/src/2.jpg" width="200px" alt="KASK Çıktısı, 1 Resim"/><br /><sub><b>KASK Çıktısı, 1 Resim</b></sub></td>
         </tr>
     </tbody>
 </table>
